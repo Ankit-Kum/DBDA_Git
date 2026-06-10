@@ -1,3 +1,6 @@
 print("Hi DBDA class ...")
 
-print("CADA")
+sum = 20
+
+
+print("BYe")
